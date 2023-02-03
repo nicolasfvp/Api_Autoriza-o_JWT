@@ -1,0 +1,8 @@
+﻿namespace ExercicioSemana2.Dto
+{
+    public class FuncionarioDto
+    {
+        public string Email { get; set; }
+        public string Senha { get; set; }
+    }
+}
